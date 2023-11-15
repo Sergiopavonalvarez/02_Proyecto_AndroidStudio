@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">02_proyecto</string>
+
+    <string-array name="ArrayHechos">
+        <item name="Hecho_curioso_0">"Chemical symbol: Zink hat das chemische Symbol im Periodensystem.
+            Es ist das Element Nummer 30 in der Tabelle."</item>
+        <item name="Hecho_curioso_1">"Entdeckung: Zink ist seit der Antike bekannt und wurde verwendet,
+            aber es wurde erstmals im 13. Jahrhundert in Indien als metallisches Element isoliert."</item>
+        <item name="Hecho_curioso_2">"Farbe und Glanz: Zink ist ein bläulich-weißes Metall mit metallischem Glanz, wenn es frisch der Atmosphäre ausgesetzt wird.
+            Es kann jedoch im Laufe der Zeit matt werden, da sich eine Oxidschicht auf seiner Oberfläche bildet."</item>
+        <item name="Hecho_curioso_3">Vorkommen: Zink ist das 24. häufigste Element auf der Erde.</item>
+        <item name="Hecho_curioso_4">Industrielle Verwendung: Zink wird in zahlreichen industriellen Anwendungen verwendet, einschließlich der Verzinkung von Stahl zum Schutz vor Korrosion,
+            der Herstellung von Metalllegierungen (wie Messing und Bronze) und in der Batterieproduktion.</item>
+        <item name="Hecho_curioso_5">Biologische Bedeutung: Zink ist ein lebenswichtiges Spurenelement für Lebewesen, einschließlich des Menschen.
+            Es ist notwendig für verschiedene biologische Funktionen, einschließlich der Funktion von Enzymen und der Regulation des Immunsystems.</item>
+        <item name="Hecho_curioso_6">Recycling: Zink ist hochrecyclebar. Das Recycling von Zink ist wirtschaftlich rentabel und umweltfreundlich,
+            da es den Bedarf an weiterem Zinkerzabbau und -verarbeitung reduziert.</item>
+        <item name="Hecho_curioso_7">Elektrische Leitfähigkeit: Zink ist ein guter Stromleiter und wird in elektrischen Anwendungen wie der Herstellung von Batterien und Zellen verwendet.</item>
+        <item name="Hecho_curioso_8">Wirkung von Zinkdämpfen: Das Einatmen von Zinkdämpfen kann Symptome ähnlich wie bei der Grippe verursachen, bekannt als Metallfieber.
+            Es handelt sich um einen vorübergehenden Zustand, der in der Regel auftritt, wenn Zink erhitzt wird.</item>
+        <item name="Hecho_curioso_9">Toxizität: Obwohl Zink lebensnotwendig ist, kann übermäßige Zinkaufnahme durch Ernährung oder berufliche Exposition gegenüber hohen Zinkkonzentrationen gesundheitliche Probleme verursachen,
+            wie Übelkeit, Erbrechen und Durchfall.</item>
+    </string-array>
+</resources>

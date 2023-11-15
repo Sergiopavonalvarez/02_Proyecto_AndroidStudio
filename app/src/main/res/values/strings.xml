@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">02_proyecto</string>
+
+    <string-array name="ArrayHechos">
+        <item name="Hecho_curioso_0">"Símbolo químico: El zinc tiene el símbolo químico en la tabla periódica.
+            Es el elemento número 30 en la tabla."</item>
+        <item name="Hecho_curioso_1">"Descubrimiento: El zinc ha sido conocido y utilizado desde la antigüedad,
+            pero fue aislado por primera vez como un elemento en su forma metálica en el siglo XIII en India."</item>
+        <item name="Hecho_curioso_2">"Color y Brillo: El zinc es un metal blanco azulado con un brillo metálico cuando se expone recién a la atmósfera.
+            Sin embargo, puede volverse opaco con el tiempo debido a la formación de una capa de óxido en su superficie."</item>
+        <item name="Hecho_curioso_3">Abundancia: El zinc es el 24º elemento más abundante en la Tierra.</item>
+        <item name="Hecho_curioso_4">Usos Industriales: El zinc se utiliza en numerosas aplicaciones industriales, incluyendo la galvanización del acero para protegerlo de la corrosión,
+            la producción de aleaciones metálicas (como el latón y el bronce), y en la fabricación de baterías.</item>
+        <item name="Hecho_curioso_5">Importancia Biológica: El zinc es un micronutriente esencial para los organismos vivos, incluyendo los humanos.
+            Es necesario para una variedad de funciones biológicas, incluida la actividad de enzimas y la regulación del sistema inmunológico.</item>
+        <item name="Hecho_curioso_6">Reciclaje: El zinc es altamente reciclable. El reciclaje de zinc es económicamente viable y beneficioso para el medio ambiente,
+            ya que reduce la necesidad de extraer y procesar más mineral de zinc.</item>
+        <item name="Hecho_curioso_7">Conductividad Eléctrica: El zinc es un buen conductor de electricidad y se utiliza en aplicaciones eléctricas como la producción de baterías y células.</item>
+        <item name="Hecho_curioso_8">Efecto de los Vapores de Zinc: Inhalación de los vapores de zinc puede causar síntomas similares a la gripe, conocidos como fiebre de los vapores metálicos.
+            Es una condición temporal que suele ocurrir cuando se calienta el zinc.</item>
+        <item name="Hecho_curioso_9">Toxicidad: Aunque el zinc es esencial para la vida, la ingestión excesiva de zinc a través de la dieta o la exposición ocupacional a altas concentraciones de zinc puede ser tóxica y causar problemas de salud,
+            como náuseas, vómitos y diarrea.</item>
+    </string-array>
+</resources>
+
+

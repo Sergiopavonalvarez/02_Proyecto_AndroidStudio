@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">02_proyecto</string>
+
+    <string-array name="ArrayHechos">
+        <item name ="Hecho_curioso_0">Chemical symbol: Zinc has the chemical symbol on the periodic table.
+            It is element number 30 on the table.</item>
+        <item name ="Hecho_curioso_1">Discovery: Zinc has been known and used since ancient times,
+            but it was first isolated as an element in its metallic form in the 13th century in India.</item>
+        <item name ="Hecho_curioso_2">Color and Luster: Zinc is a bluish-white metal with a metallic luster when freshly exposed to the atmosphere.
+            However, it can become dull over time due to the formation of an oxide layer on its surface.</item>
+        <item name ="Hecho_curioso_3">Abundance: Zinc is the 24th most abundant element in the Earth</item>
+        <item name ="Hecho_curioso_4">Industrial Uses: Zinc is used in numerous industrial applications, including the galvanization of steel to protect it from corrosion,
+            the production of metal alloys (such as brass and bronze), and in battery production.</item>
+        <item name ="Hecho_curioso_5"> Biological Importance: Zinc is an essential micronutrient for living organisms, including humans.
+            It is necessary for a variety of biological functions, including the functioning of enzymes and the regulation of the immune system.</item>
+        <item name ="Hecho_curioso_6">Recycling: Zinc is highly recyclable. Zinc recycling is economically viable and environmentally beneficial,
+            as it reduces the need to extract and process more zinc ore.</item>
+        <item name ="Hecho_curioso_7">Electric Conductivity: Zinc is a good conductor of electricity and is used in electrical applications such as the production of batteries and cells..</item>
+        <item name ="Hecho_curioso_8">Effect of Zinc Fumes: Inhaling zinc fumes can cause symptoms similar to the flu, known as metal fume fever.
+            It is a temporary condition that typically occurs when zinc is heated.</item>
+        <item name ="Hecho_curioso_9">
+            Toxicity: While zinc is essential for life, excessive intake of zinc through diet or occupational exposure to high concentrations of zinc can be toxic and cause health problems,
+            such as nausea, vomiting, and diarrhea.</item>
+    </string-array>
+</resources>
+
+
